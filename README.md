@@ -1,2 +1,2 @@
-# NumPy_Image-Array-_Project
+# NumPy_Image-to-Array_Project
 Image Processing and Colour Grading
